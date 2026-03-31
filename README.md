@@ -127,7 +127,7 @@ Olá! Sou Cleonice, médica veterinária apaixonada pela interface entre saúde 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cleonice-holanda&theme=radical&border_radius=10&ring=FF69B4&fire=FF1493&currStreakLabel=FF69B4" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cleoah&theme=radical&border_radius=10&ring=FF69B4&fire=FF1493&currStreakLabel=FF69B4" height="180em"/>
 </div>
 
 ---
