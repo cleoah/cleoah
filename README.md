@@ -122,8 +122,8 @@ Olá! Sou Cleonice, médica veterinária apaixonada pela interface entre saúde 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cleonice-holanda&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&title_color=FF69B4&icon_color=FF1493"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleonice-holanda&layout=compact&langs_count=7&theme=radical&border_radius=10&title_color=FF69B4"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cleoah&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&title_color=FF69B4&icon_color=FF1493"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleoah&layout=compact&langs_count=7&theme=radical&border_radius=10&title_color=FF69B4"/>
 </div>
 
 <div align="center">
