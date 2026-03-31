@@ -142,7 +142,6 @@ Olá! Sou Cleonice, médica veterinária apaixonada pela interface entre saúde 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleoniceandrade-holanda-88383ab1)
 [![Lattes](https://img.shields.io/badge/Lattes-FF69B4?style=for-the-badge&logo=mattermost&logoColor=white)](http://lattes.cnpq.br/7539091183830344)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4588-3268)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://pt-br.facebook.com/cleo.lucena.9)
 
 </div>
 
