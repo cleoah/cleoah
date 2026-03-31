@@ -63,7 +63,7 @@ Olá! Sou Cleonice, médica veterinária apaixonada pela interface entre saúde 
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/26AHPxxnSw1L9T1rW/giphy.gif" width="100"/>
+<img src="https://media.giphy.com/media/26AHPxxnSw1L9T1rW/giphy.gif" width="200"/>
 
 </div>
 
