@@ -112,7 +112,7 @@ Olá! Sou Cleonice, médica veterinária apaixonada pela interface entre saúde 
 ```
 🐱 Zoonoses          🌿 One Health          🦠 Doenças Infecciosas
 🔬 Medicina Tropical  🛡️ Vigilância Sanitária  🐾 Bem-Estar Animal
-💊 Compostos Antifúngicos  🌎 Saúde Global    📊 Epidemiologia de Campo
+💊 Resistencia a antibióticos  🌎 Saúde Global    📊 Análise de dados
 ```
 
 </div>
