@@ -97,7 +97,7 @@ Olá! Sou Cleonice, médica veterinária apaixonada pela interface entre saúde 
 |---|---|
 | 🇧🇷 Português | Fluente |
 | 🇺🇸 Inglês | Intermediário-Avançado |
-| 🇪🇸 Espanhol | Intermediário (leitura/compreensão) |
+| 🇪🇸 Espanhol | Intermediário |
 | 🇫🇷 Francês | Básico |
 | 🇯🇵 Japonês | Básico |
 
