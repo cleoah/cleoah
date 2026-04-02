@@ -1,14 +1,8 @@
 <div align="center">
 
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=200&section=header&text=Cleonice%20Holanda&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Medicina%20Veterin%C3%A1ria%20%7C%20Sa%C3%BAde%20P%C3%BAblica%20%7C%20Zoonoses%20%7C%20One%20Health&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=M%C3%A9dica+Veterin%C3%A1ria+%F0%9F%90%BE;Consultora+OPAS%2FOMS+%F0%9F%8C%8D;Mestre+em+Medicina+Tropical+%F0%9F%94%AC;Especialista+em+Vigil%C3%A2ncia+Sanit%C3%A1ria+%F0%9F%A6%A0;Defensora+da+Sa%C3%BAde+%C3%9Anica+%F0%9F%90%BE%F0%9F%8C%BF%F0%9F%91%A9%E2%80%8D%F0%9F%94%AC)](https://git.io/typing-svg)
-
-</div>
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=M%C3%A9dica+Veterin%C3%A1ria+%F0%9F%90%BE;Mestre+em+Medicina+Tropical+%F0%9F%94%AC;Especialista+em+Vigil%C3%A2ncia+Sanit%C3%A1ria+%F0%9F%A6%A0;Defensora+da+Sa%C3%BAde+%C3%9Anica+%F0%9F%90%BE%F0%9F%8C%BF%F0%9F%91%A9%E2%80%8D%F0%9F%94%AC)](https://git.io/typing-svg)
 
 </div>
 
